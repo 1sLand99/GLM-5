@@ -1031,7 +1031,7 @@ done
 tail -f log/node_0.log
 ```
 
-#### pod-1
+##### node-1
 ```
 #!/bin/bash
 set -e
@@ -1118,8 +1118,8 @@ done
 
 tail -f log/node_0.log
 ```
-### decode instance 2 pods
-#### node-0
+#### decode instance 2 pods
+##### node-0
 ```
 #!/bin/bash
 set -e
@@ -1209,7 +1209,7 @@ done
 
 tail -f log/node_0.log
 ```
-#### node-1
+##### node-1
 ```
 #!/bin/bash
 set -e
