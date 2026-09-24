@@ -43,7 +43,7 @@ This is a **documentation-only** master skill.
 
 | Skill | Purpose | Link |
 |---|---|---|
-| `glm-image-gen` | Text-to-image generation | https://github.com/zai-org/GLM-Image/tree/main/skills/glm-image-gen |
+| `glm-image-generation` | Text-to-image generation | https://github.com/zai-org/GLM-Image/tree/main/skills/glm-image-generation |
 
 ### GLM-V
 
